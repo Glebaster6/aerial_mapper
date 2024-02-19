@@ -2,7 +2,6 @@ cmake_minimum_required(VERSION 2.8.3)
 project(aerial_mapper_dense_pcl)
 
 find_package(catkin_simple REQUIRED)
-find_package(protobuf_catkin REQUIRED)
 catkin_simple(ALL_DEPS_REQUIRED)
 
 #############
