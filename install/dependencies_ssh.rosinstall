@@ -1,5 +1,6 @@
 - git: {local-name: aslam_cv2, uri: 'https://github.com/ethz-asl/aslam_cv2.git'}
 - git: {local-name: catkin_simple, uri: 'https://github.com/catkin/catkin_simple.git'}
+- git: {local-name: protobuf_catkin, uri: 'https://github.com/ethz-asl/protobuf_catkin.git'}
 - git: {local-name: doxygen_catkin, uri: 'https://github.com/ethz-asl/doxygen_catkin.git'}
 - git: {local-name: eigen_catkin, uri: 'https://github.com/ethz-asl/eigen_catkin.git'}
 - git: {local-name: eigen_checks, uri: 'https://github.com/ethz-asl/eigen_checks.git'}
